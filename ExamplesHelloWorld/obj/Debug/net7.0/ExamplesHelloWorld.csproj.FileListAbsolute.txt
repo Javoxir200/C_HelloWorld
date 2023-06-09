@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\bin\Debug\net7.0\ExamplesHelloWorld.exe
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\bin\Debug\net7.0\ExamplesHelloWorld.deps.json
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\bin\Debug\net7.0\ExamplesHelloWorld.runtimeconfig.json
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\bin\Debug\net7.0\ExamplesHelloWorld.dll
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\bin\Debug\net7.0\ExamplesHelloWorld.pdb
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.AssemblyInfo.cs
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.dll
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\refint\ExamplesHelloWorld.dll
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.pdb
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ExamplesHelloWorld.genruntimeconfig.cache
+C:\Users\ASUS\Documents\C#\Examples\ExamplesHelloWorld\obj\Debug\net7.0\ref\ExamplesHelloWorld.dll
